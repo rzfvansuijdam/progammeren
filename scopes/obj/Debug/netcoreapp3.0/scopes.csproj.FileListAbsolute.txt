@@ -1,0 +1,3 @@
+C:\bewijzmap\periode1.2\pro\scopes\obj\Debug\netcoreapp3.0\scopes.csprojAssemblyReference.cache
+C:\bewijzmap\periode1.2\pro\scopes\obj\Debug\netcoreapp3.0\scopes.AssemblyInfoInputs.cache
+C:\bewijzmap\periode1.2\pro\scopes\obj\Debug\netcoreapp3.0\scopes.AssemblyInfo.cs
